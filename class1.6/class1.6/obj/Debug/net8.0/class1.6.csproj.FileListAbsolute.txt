@@ -1,0 +1,14 @@
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\bin\Debug\net8.0\class1.6.exe
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\bin\Debug\net8.0\class1.6.deps.json
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\bin\Debug\net8.0\class1.6.runtimeconfig.json
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\bin\Debug\net8.0\class1.6.dll
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\bin\Debug\net8.0\class1.6.pdb
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\class1.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\class1.6.AssemblyInfoInputs.cache
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\class1.6.AssemblyInfo.cs
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\class1.6.csproj.CoreCompileInputs.cache
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\class1.6.dll
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\refint\class1.6.dll
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\class1.6.pdb
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\class1.6.genruntimeconfig.cache
+C:\Users\762\Desktop\Марланд\class1.6\class1.6\obj\Debug\net8.0\ref\class1.6.dll
