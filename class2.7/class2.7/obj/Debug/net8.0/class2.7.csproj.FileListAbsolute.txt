@@ -1,0 +1,14 @@
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\bin\Debug\net8.0\class2.7.exe
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\bin\Debug\net8.0\class2.7.deps.json
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\bin\Debug\net8.0\class2.7.runtimeconfig.json
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\bin\Debug\net8.0\class2.7.dll
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\bin\Debug\net8.0\class2.7.pdb
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\class2.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\class2.7.AssemblyInfoInputs.cache
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\class2.7.AssemblyInfo.cs
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\class2.7.csproj.CoreCompileInputs.cache
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\class2.7.dll
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\refint\class2.7.dll
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\class2.7.pdb
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\class2.7.genruntimeconfig.cache
+C:\Users\762\Desktop\Марланд\class2.7\class2.7\obj\Debug\net8.0\ref\class2.7.dll
