@@ -12,7 +12,7 @@ class Program
         // Заполнение массива случайными числами
         for (int i = 0; i < size; i++)
         {
-            randomArray[i] = random.Next(10, 100); // Генерация числа от 10 до 1000
+            randomArray[i] = random.Next(10, 100); // Генерация числа от 10 до 100
         }
 
         // Вывод массива на экран
@@ -28,7 +28,7 @@ class Program
     {
         for (int j = 0; j < array.Length; j++)
         {
-            for (int i = 0; i < array.Length - 1; i++)
+            for (int i = 0; i < array.Length - 1 - j; i++)
             {
                 if (array[i] > array[i + 1])
                 {
