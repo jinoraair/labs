@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         //читаем данные из файла
-        FileStream fstream = File.OpenRead("C:\\Users\\762\\Desktop\\Марланд\\class2.10\\input.txt");
+        FileStream fstream = File.OpenRead("C:\\Users\\762\\Desktop\\Марланд\\home2.1\\input.txt");
         byte[] array = new byte[fstream.Length];
         fstream.Read(array, 0, array.Length);
         //декодируем байты в строку
