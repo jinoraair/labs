@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -33,15 +33,15 @@ class Program
         double Y2 = 0;
         for (int i = 0; i < 15; i++)
         {
-            for (int j = 0; j < 14; j++)
+            for (int j = i + 1; j < 14; j++)
             {
-                double dist = Math.Sqrt(Math.Pow((arrX[j + 1] - arrX[i]), 2) + Math.Pow((arrY[j + 1] - arrY[i]), 2));
+                double dist = Math.Sqrt(Math.Pow((arrX[j] - arrX[i]), 2) + Math.Pow((arrY[j] - arrY[i]), 2));
                 if (max_dist < dist)
                 {
                     max_dist = dist;
-                    X1 = arrX[j+1];
+                    X1 = arrX[j];
                     X2 = arrX[i];
-                    Y1 = arrY[j + 1];
+                    Y1 = arrY[j];
                     Y2 = arrY[i];
                 }
             }
