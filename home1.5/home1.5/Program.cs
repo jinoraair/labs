@@ -32,7 +32,7 @@ class Program
         }
         return result;
     }
-//проверка введенных сторон треугольника на корректность
+
     static bool IsValidTriangle(double A, double B, double C)
     {
         return (A + B > C) && (A + C > B) && (B + C > A);
@@ -48,10 +48,10 @@ class Program
             double arcosAB1 = Math.Acos((A1 * A1 + B1 * B1 - C1 * C1) / (2 * A1 * B1));
             double arcosAC1 = Math.Acos((A1 * A1 + C1 * C1 - B1 * B1) / (2 * A1 * C1));
             double arcosBC1 = Math.Acos((B1 * B1 + C1 * C1 - A1 * A1) / (2 * B1 * C1));
-
-            if (A / A1 == B / B1 && A / A1 == C / C1 && B / B1 == C / C1)
+            const double eps = 1e-10;
+            if (Math.Abs(A / A1 - B / B1) < eps && Math.Abs(A / A1 - C / C1) < eps && Math.Abs(B / B1 - C / C1) < eps)
             {
-                if (arcosAB == arcosAB1 && arcosBC == arcosBC1 && arcosAC == arcosAC1)
+                if (Math.Abs(arcosAB - arcosAB1) < eps && Math.Abs(arcosBC - arcosBC1) < eps && Math.Abs(arcosAC - arcosAC1) < eps)
                 {
                     Console.WriteLine("Да. Треугольники подобны.");
                 }
