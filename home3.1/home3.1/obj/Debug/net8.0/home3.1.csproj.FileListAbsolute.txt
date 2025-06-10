@@ -1,0 +1,14 @@
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\bin\Debug\net8.0\home3.1.exe
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\bin\Debug\net8.0\home3.1.deps.json
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\bin\Debug\net8.0\home3.1.runtimeconfig.json
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\bin\Debug\net8.0\home3.1.dll
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\bin\Debug\net8.0\home3.1.pdb
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\home3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\home3.1.AssemblyInfoInputs.cache
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\home3.1.AssemblyInfo.cs
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\home3.1.csproj.CoreCompileInputs.cache
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\home3.1.dll
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\refint\home3.1.dll
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\home3.1.pdb
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\home3.1.genruntimeconfig.cache
+C:\Users\762\Desktop\Марланд\home3.1\home3.1\obj\Debug\net8.0\ref\home3.1.dll
