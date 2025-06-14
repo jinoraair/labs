@@ -1,0 +1,14 @@
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\bin\Debug\net8.0\home-class4.exe
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\bin\Debug\net8.0\home-class4.deps.json
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\bin\Debug\net8.0\home-class4.runtimeconfig.json
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\bin\Debug\net8.0\home-class4.dll
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\bin\Debug\net8.0\home-class4.pdb
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\home-class4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\home-class4.AssemblyInfoInputs.cache
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\home-class4.AssemblyInfo.cs
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\home-class4.csproj.CoreCompileInputs.cache
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\home-class4.dll
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\refint\home-class4.dll
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\home-class4.pdb
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\home-class4.genruntimeconfig.cache
+C:\Users\762\Desktop\Марланд\home-class4\home-class4\obj\Debug\net8.0\ref\home-class4.dll
